@@ -11,7 +11,7 @@ public class PartialSet {
             ArrayList<Integer> subset = getConvertToInt(k, set);
             allsubsets.add(subset);
         }
-
+        return allsubsets;
     }
 
     public ArrayList<Integer> getConvertToInt(int x, ArrayList<Integer> set) {
