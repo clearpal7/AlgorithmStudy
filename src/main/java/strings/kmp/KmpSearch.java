@@ -5,7 +5,7 @@ public class KmpSearch {
 
    public static void main(String[] args) {
        String haystack = "aaaaa";
-       String needle = "bba";
+       String needle = "AABAABA";
 
        System.out.println(strStr(haystack, needle));
    }
