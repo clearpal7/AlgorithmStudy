@@ -12,17 +12,15 @@ public class LongestArithmeticSequence {
 
     public static int longestArithSeqLength(int[] A) {
         Map<Integer, Map<Integer, Integer>> dp = new HashMap<>(); // <difference, <Index of Element for this difference, count of sequence>>
-        int max = 2;
-        for (int i = 0; i < A.length; i++) {
-            for (int j = i + 1; j < A.length; j++) {
-                int a = A[i];
-                int b = A[j];
-                Map<Integer, Integer> diff = dp.computeIfAbsent(b - a, c -> new HashMap<>());
-                int currMax = Math.max(diff.getOrDefault(j, 0), diff.getOrDefault(i, 0) + 1);
-                diff.put(j, currMax);
-                max = Math.max(max, currMax + 1);
+        int res = 2;
+        for(int i = 0; i < A.length; i++) {
+            for(int j = i + 1; j < A.length; j++) {
+                int diff = A[j] - A[i];
+                Map<Integer, Integer> map = dp.computeIfAbsent(diff, d -> new HashMap<>());
+                map.put(j, map.getOrDefault(i, 1) + 1);
+                res = Math.max(res, map.get(j));
             }
         }
-        return max;
+        return res;
     }
 }

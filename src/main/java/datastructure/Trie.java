@@ -1,28 +1,34 @@
-/*
 package datastructure;
 
-public class Trie {
+/*public class Trie {
 
-    TrieNode root;
-
-    Trie() {
-        this.root = new TrieNode();
-    }
-
-    public void insert(String keyword) {
+    *//** Initialize your data structure here. *//*
+    public Trie() {
 
     }
 
-    public boolean delete(String keyword) {
+    *//** Inserts a word into the trie. *//*
+    public void insert(String word) {
 
     }
 
-    public boolean containsNode(String query) {
+    *//** Returns if the word is in the trie. *//*
+    public boolean search(String word) {
 
     }
 
-    public boolean isEmpty() {
-        return root == null;
+    *//** Returns if there is any word in the trie that starts with the given prefix. *//*
+    public boolean startsWith(String prefix) {
+
     }
-}
-*/
+
+}*/
+
+/*    Trie trie = new Trie();
+
+trie.insert("apple");
+        trie.search("apple");   // returns true
+        trie.search("app");     // returns false
+        trie.startsWith("app"); // returns true
+        trie.insert("app");
+        trie.search("app");     // returns true*/
