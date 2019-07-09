@@ -33,9 +33,9 @@ public class ThreadedTree {
         newNode.setLeftThreaded(true);
         newNode.setRightThreaded(true);
 
-        if(parent == null) {
+        /*if(parent == null) {
             root =
-        }
+        }*/
     }
 
     static List<TreeNode> res;
