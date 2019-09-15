@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36d550d7-ad4d-45fe-ac0e-6ac8f127161c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/datastructure/TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/TrieNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/contest132/LongestArithmeticSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest132/LongestArithmeticSequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -50,11 +46,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest140/LetterTilePossibilities_5087.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="72">
+              <caret line="4" column="2" selection-start-line="4" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -97,13 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/programmers/programmers3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest124/NumberOfSquarefulArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/SumOfDistanceInTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest125/FindTheTownJudge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest125/AvailableCapturesForRook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest125/MaximumBinaryTreeII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest125/GridIllumination.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreeCameras_968.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/domain/Edge.java" />
@@ -148,6 +146,13 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest132/LongestArithmeticSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest140/OccurrencesAfterBigram_5083.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest140/LetterTilePossibilities_5087.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest142/FindinMountainArray_1095.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/DeleteNodesAndReturnForest_1110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest150/FindWordsThatCanBeFormedbyCharacters_1160.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java" />
       </list>
     </option>
   </component>
@@ -164,8 +169,8 @@
     <option name="EXCLUDE_MAKE_BEFORE_RUN" value="false" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="38" />
+    <option name="x" value="56" />
+    <option name="y" value="37" />
     <option name="width" value="1567" />
     <option name="height" value="957" />
   </component>
@@ -175,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,26 +215,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AlgorithmStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="contest140" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560091426949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567330652743" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -245,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LetterTilePossibilities_5087">
+  <component name="RunManager" selected="Application.PrimeArrangements_1175">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -411,13 +407,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisorofStrings_1071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest139.GreatestCommonDivisorofStrings_1071" />
+    <configuration name="CorporateFlightBookings_1109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest144.CorporateFlightBookings_1109" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest139.*" />
+          <option name="PATTERN" value="leetcode.contest144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,13 +421,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrumpyBookstoreOwner_1052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest138.GrumpyBookstoreOwner_1052" />
+    <configuration name="DefangingAnIPAddress_1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest144.DefangingAnIPAddress_1108" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest138.*" />
+          <option name="PATTERN" value="leetcode.contest144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,13 +435,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterTilePossibilities_5087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest140.LetterTilePossibilities_5087" />
+    <configuration name="FindWordsThatCanBeFormedbyCharacters_1160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest150.FindWordsThatCanBeFormedbyCharacters_1160" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest140.*" />
+          <option name="PATTERN" value="leetcode.contest150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,13 +449,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestArithmeticSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest132.LongestArithmeticSequence" />
+    <configuration name="FindinMountainArray_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest142.FindinMountainArray_1095" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest132.*" />
+          <option name="PATTERN" value="leetcode.contest142.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,13 +463,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccurrencesAfterBigram_5083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest140.OccurrencesAfterBigram_5083" />
+    <configuration name="PrimeArrangements_1175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest152.PrimeArrangements_1175" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest140.*" />
+          <option name="PATTERN" value="leetcode.contest152.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,19 +602,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.GrumpyBookstoreOwner_1052" />
-      <item itemvalue="Application.GreatestCommonDivisorofStrings_1071" />
-      <item itemvalue="Application.LongestArithmeticSequence" />
-      <item itemvalue="Application.OccurrencesAfterBigram_5083" />
-      <item itemvalue="Application.LetterTilePossibilities_5087" />
+      <item itemvalue="Application.FindinMountainArray_1095" />
+      <item itemvalue="Application.DefangingAnIPAddress_1108" />
+      <item itemvalue="Application.CorporateFlightBookings_1109" />
+      <item itemvalue="Application.FindWordsThatCanBeFormedbyCharacters_1160" />
+      <item itemvalue="Application.PrimeArrangements_1175" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LetterTilePossibilities_5087" />
-        <item itemvalue="Application.OccurrencesAfterBigram_5083" />
-        <item itemvalue="Application.LongestArithmeticSequence" />
-        <item itemvalue="Application.GreatestCommonDivisorofStrings_1071" />
-        <item itemvalue="Application.GrumpyBookstoreOwner_1052" />
+        <item itemvalue="Application.PrimeArrangements_1175" />
+        <item itemvalue="Application.FindWordsThatCanBeFormedbyCharacters_1160" />
+        <item itemvalue="Application.CorporateFlightBookings_1109" />
+        <item itemvalue="Application.DefangingAnIPAddress_1108" />
+        <item itemvalue="Application.FindinMountainArray_1095" />
       </list>
     </recent_temporary>
   </component>
@@ -689,11 +685,15 @@
       <workItem from="1559138236995" duration="1276000" />
       <workItem from="1559569405494" duration="5862000" />
       <workItem from="1560082264245" duration="4137000" />
+      <workItem from="1562466776042" duration="5051000" />
+      <workItem from="1562479895837" duration="3384000" />
+      <workItem from="1566113780830" duration="2091000" />
+      <workItem from="1567322118760" duration="5019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479811000" />
+    <option name="totallyTimeSpent" value="501861000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,10 +705,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="84" width="1567" height="957" extended-state="0" />
+    <frame x="56" y="37" width="1567" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22950819" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23016393" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -718,8 +718,8 @@
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33063585" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19653179" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3283237" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22080925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4069364" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
@@ -727,7 +727,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3479769" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.16069365" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.27052024" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="13" weight="0.32908458" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -925,6 +925,24 @@
           <properties />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -982,55 +1000,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/domain/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/DijkstraShortestReach2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/BreadthFirstSearchShortestReach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/PrimsAlgorithmMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestUnCommonSubsequence1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/TilingOf2XN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1136,17 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="440" column="25" selection-start-line="440" selection-start-column="25" selection-end-line="440" selection-end-column="25" />
-          <folding>
-            <element signature="e#17181#17182#0" expanded="true" />
-            <element signature="e#17264#17265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest135/ValidBoomerang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1182,13 +1140,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/domain/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1342,6 +1293,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest142/FindinMountainArray_1095.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/domain/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/FindWordsThatCanBeFormedbyCharacters_1160.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DeleteNodesAndReturnForest_1110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="4" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" selection-start-line="4" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="337" column="25" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
+          <folding>
+            <element signature="e#17181#17182#0" expanded="true" />
+            <element signature="e#17264#17265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
