@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36d550d7-ad4d-45fe-ac0e-6ac8f127161c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/classes/algorithm/Levenshtein/LevenshteinAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datastructure/threadedTree/ThreadedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datastructure/threadedTree/ThreadedTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Levenshtein/LevenshteinAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AlgorithmStudy_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AlgorithmStudy_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/play2_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,19 +57,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest154/MaximumNumberOfBalloons_1189.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="2" selection-start-line="4" selection-end-line="9" selection-end-column="3" />
+              <caret line="6" column="2" selection-start-line="6" selection-end-line="38" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest159/RemoveSubFoldersFromTheFilesystem_1233.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest159/ReplaceTheSubstringForBalancedString_1234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="216">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -146,13 +171,13 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest132/LongestArithmeticSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest140/OccurrencesAfterBigram_5083.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest140/LetterTilePossibilities_5087.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest142/FindinMountainArray_1095.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest144/DeleteNodesAndReturnForest_1110.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest150/FindWordsThatCanBeFormedbyCharacters_1160.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest142/StatisticsFromALargeSample_1093.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/Levenshtein/LevenshteinAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest154/MaximumNumberOfBalloons_1189.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest159/RemoveSubFoldersFromTheFilesystem_1233.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest159/ReplaceTheSubstringForBalancedString_1234.java" />
       </list>
     </option>
   </component>
@@ -169,10 +194,9 @@
     <option name="EXCLUDE_MAKE_BEFORE_RUN" value="false" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="37" />
-    <option name="width" value="1567" />
-    <option name="height" value="957" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -180,8 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,21 +235,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="contest159" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567330652743" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572441629317" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeArrangements_1175">
+  <component name="RunManager" selected="Application.RemoveSubFoldersFromTheFilesystem_1233">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -407,13 +448,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CorporateFlightBookings_1109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest144.CorporateFlightBookings_1109" />
+    <configuration name="LetterTilePossibilities_5087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest140.LetterTilePossibilities_5087" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest144.*" />
+          <option name="PATTERN" value="leetcode.contest140.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,13 +462,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangingAnIPAddress_1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest144.DefangingAnIPAddress_1108" />
+    <configuration name="LevenshteinAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Levenshtein.LevenshteinAlgorithm" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest144.*" />
+          <option name="PATTERN" value="algorithm.Levenshtein.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,13 +476,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindWordsThatCanBeFormedbyCharacters_1160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest150.FindWordsThatCanBeFormedbyCharacters_1160" />
+    <configuration name="LongestArithmeticSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest132.LongestArithmeticSequence" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest150.*" />
+          <option name="PATTERN" value="leetcode.contest132.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,13 +490,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindinMountainArray_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest142.FindinMountainArray_1095" />
+    <configuration name="OccurrencesAfterBigram_5083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest140.OccurrencesAfterBigram_5083" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest142.*" />
+          <option name="PATTERN" value="leetcode.contest140.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,13 +504,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeArrangements_1175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest152.PrimeArrangements_1175" />
+    <configuration name="RemoveSubFoldersFromTheFilesystem_1233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest159.RemoveSubFoldersFromTheFilesystem_1233" />
       <module name="AlgorithmStudy_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest152.*" />
+          <option name="PATTERN" value="leetcode.contest159.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -602,19 +643,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.FindinMountainArray_1095" />
-      <item itemvalue="Application.DefangingAnIPAddress_1108" />
-      <item itemvalue="Application.CorporateFlightBookings_1109" />
-      <item itemvalue="Application.FindWordsThatCanBeFormedbyCharacters_1160" />
-      <item itemvalue="Application.PrimeArrangements_1175" />
+      <item itemvalue="Application.LongestArithmeticSequence" />
+      <item itemvalue="Application.OccurrencesAfterBigram_5083" />
+      <item itemvalue="Application.LetterTilePossibilities_5087" />
+      <item itemvalue="Application.LevenshteinAlgorithm" />
+      <item itemvalue="Application.RemoveSubFoldersFromTheFilesystem_1233" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeArrangements_1175" />
-        <item itemvalue="Application.FindWordsThatCanBeFormedbyCharacters_1160" />
-        <item itemvalue="Application.CorporateFlightBookings_1109" />
-        <item itemvalue="Application.DefangingAnIPAddress_1108" />
-        <item itemvalue="Application.FindinMountainArray_1095" />
+        <item itemvalue="Application.RemoveSubFoldersFromTheFilesystem_1233" />
+        <item itemvalue="Application.LevenshteinAlgorithm" />
+        <item itemvalue="Application.LetterTilePossibilities_5087" />
+        <item itemvalue="Application.OccurrencesAfterBigram_5083" />
+        <item itemvalue="Application.LongestArithmeticSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -685,15 +726,18 @@
       <workItem from="1559138236995" duration="1276000" />
       <workItem from="1559569405494" duration="5862000" />
       <workItem from="1560082264245" duration="4137000" />
-      <workItem from="1562466776042" duration="5051000" />
-      <workItem from="1562479895837" duration="3384000" />
-      <workItem from="1566113780830" duration="2091000" />
-      <workItem from="1567322118760" duration="5019000" />
+      <workItem from="1562549658746" duration="3220000" />
+      <workItem from="1562654638657" duration="1572000" />
+      <workItem from="1568529467143" duration="2463000" />
+      <workItem from="1572229684487" duration="175000" />
+      <workItem from="1572270659819" duration="2723000" />
+      <workItem from="1572440804382" duration="919000" />
+      <workItem from="1573313707166" duration="741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="501861000" />
+    <option name="totallyTimeSpent" value="493419000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,10 +749,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="37" width="1567" height="957" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="972" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23016393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16483517" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -718,16 +761,16 @@
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33063585" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22080925" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4069364" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.308311" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4125" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3549133" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3538874" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3479769" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3465909" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.27052024" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.225" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="13" weight="0.32908458" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -925,24 +968,6 @@
           <properties />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="164" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1105,6 +1130,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest135/ValidBoomerang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1112,13 +1138,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="165" column="34" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Double.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest134/ColoringABorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1143,13 +1163,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/domain/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest135/MovingStonesUntilConsecutiveII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="2" selection-start-line="8" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1172,9 +1196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,9 +1204,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1193,9 +1211,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1210,16 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest137/LastStoneWeightII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -1262,20 +1267,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="1094" column="13" selection-start-line="1094" selection-start-column="13" selection-end-line="1094" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest132/LongestArithmeticSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1283,9 +1279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,83 +1289,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest137/LastStoneWeightII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DefangingAnIPAddress_1108.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest142/StatisticsFromALargeSample_1093.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Levenshtein/LevenshteinAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest142/FindinMountainArray_1095.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="219">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="8" selection-end-line="37" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/CorporateFlightBookings_1109.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/threadedTree/ThreadedNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="188">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/domain/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/FindWordsThatCanBeFormedbyCharacters_1160.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest144/DeleteNodesAndReturnForest_1110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="4" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest150/MaximumLevelSumOfABinaryTree_1161.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="2" selection-start-line="4" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="337" column="25" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
-          <folding>
-            <element signature="e#17181#17182#0" expanded="true" />
-            <element signature="e#17264#17265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest152/PrimeArrangements_1175.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest154/MaximumNumberOfBalloons_1189.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="2" selection-start-line="6" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest159/RemoveSubFoldersFromTheFilesystem_1233.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest159/ReplaceTheSubstringForBalancedString_1234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
