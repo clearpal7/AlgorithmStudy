@@ -8,25 +8,17 @@ public class ReplaceTheSubstringForBalancedString_1234 {
     }
 
     public static int balancedString(String s) {
-        int n = s.length() / 4;
-        int Q = 0;
-        int W = 0;
-        int E = 0;
-        int R = 0;
-        int ans = 0;
-
-        for(char ch : s.toCharArray()) {
-            if(ch == 'Q') {
-                ++Q;
-            } else if (ch == 'W') {
-                ++W;
-            } else if (ch == 'E') {
-                ++E;
-            } else if (ch == 'R') {
-                ++R;
-            }
+        int[] count = new int[128];
+        int n = s.length();
+        int res = n;
+        for(int i  = 0; i < n; i++) {
+            ++count[s.charAt(i)];
         }
-        ans += (Math.abs(Q-n) + Math.abs(W-n) + Math.abs(E-n) + Math.abs(R-n)) / 2;
-        return ans;
+        int i = 0 ;
+        for(int j = 0; j < n; j++) {
+            --count[s.charAt(j)];
+
+        }
+        return 0;
     }
 }

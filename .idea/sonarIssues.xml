@@ -3,12 +3,67 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/src/main/java/algorithm/LRU.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/algorithm/LRU/LRU.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/algorithm/LRU/LRUMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructure/MultiTreeSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest159/ReplaceTheSubstringForBalancedString_1234.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest162/CellsWithOddValuesInAMatrix_1252.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest162/MaximumScoreWordsFormedByLetters_1255.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest162/NumberOfClosedIslands_1254.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest164/MinimumTimeVisitingAllPoints_1266.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/domain/Coordinate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/findMaxZeroCount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/programmers/Kakao/NewsClustering.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/programmers/Kakao/asd.java">
           <value>
             <set />
           </value>
@@ -58,6 +113,76 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/DEPLOYLOG.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/commons/config/spring/ApplicationCommunityMongoDBConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/data/impl/MyActivityOperationsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/data/impl/ReplyOperationsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/data/repository/ReplyMongoRepositoryCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/data/repository/ReplyMongoRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/domain/reply/SpreadReplyList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/CardListServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/MyActivityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/ReplyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/user/data/rest/impl/SocialDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/web/api/external/aop/ApiAuthCheckAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/web/api/open/ver10/community/CardOpenApiControllerV10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/resources/config/qa2/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../social_engine_batch/DEPLOYLOG.txt">
           <value>
             <set />
@@ -94,6 +219,86 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/resources/config/qa2/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/community/data/FeedOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/community/data/impl/FeedOperationsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/community/service/impl/ReplyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/search/es/service/FeedSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/search/es/service/impl/FeedSearchImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/data/impl/UGCArcadeHomeOperationsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/data/impl/UGCVersionOperationsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/data/repository/mongodb/UGCArcadeCategoryMongoRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/domain/UGCArcadeCategory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/domain/UGCParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/service/UGCService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/service/impl/UGCArcadeHomeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/ugc/service/impl/UGCServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/web/api/internal/ugc/InternalApiUgcControllerV10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/web/api/open/ver10/community/dto/CardDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_china/src/main/java/com/smilegate/mountain/web/api/open/ver10/search/request/FeedSearchRequest.java">
           <value>
             <set />
           </value>
