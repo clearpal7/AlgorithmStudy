@@ -6,9 +6,9 @@ import java.util.List;
 public class ReconstructA2_RowBinaryMatrix_1253 {
 
     public static void main(String[] args) {
-        int upper = 2;
-        int lower = 1;
-        int[] colsum = {1,1,1};
+        int upper = 3;
+        int lower = 2;
+        int[] colsum = {2,1,1,0,1};
 
         List<List<Integer>> result = reconstructMatrix(upper, lower, colsum);
 
