@@ -1,6 +1,7 @@
 package educative.slidingwindow;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class ReplaceSubstring {
 

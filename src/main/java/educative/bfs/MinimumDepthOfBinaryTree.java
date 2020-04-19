@@ -2,7 +2,8 @@ package educative.bfs;
 
 import leetcode.domain.TreeNode;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class MinimumDepthOfBinaryTree {
 

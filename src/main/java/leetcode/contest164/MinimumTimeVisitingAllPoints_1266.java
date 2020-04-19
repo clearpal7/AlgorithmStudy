@@ -1,8 +1,5 @@
 package leetcode.contest164;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
-
 public class MinimumTimeVisitingAllPoints_1266 {
 
     public static void main(String[] args) {

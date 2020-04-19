@@ -1,11 +1,5 @@
 package hackerrank;
 
-import leetcode.domain.Node;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
-
 public class InOrderTraversal {
 
     /*public static void inOrder(Node root) {

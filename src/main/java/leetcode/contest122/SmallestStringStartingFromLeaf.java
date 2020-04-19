@@ -4,7 +4,6 @@ package leetcode.contest122;
 import leetcode.domain.TreeNode;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class SmallestStringStartingFromLeaf {

@@ -1,6 +1,7 @@
 package leetcode;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashSet;
 
 public class SumOfDistanceInTree {
 

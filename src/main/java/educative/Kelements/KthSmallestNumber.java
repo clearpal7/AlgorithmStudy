@@ -1,6 +1,6 @@
 package educative.Kelements;
 
-import java.util.*;
+import java.util.PriorityQueue;
 
 public class KthSmallestNumber {
 

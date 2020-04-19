@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -173,7 +178,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/DutchNationalFlagProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/PairTargetSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/QuadrupleSumToTarget.java">
           <value>
             <set />
           </value>
@@ -453,6 +468,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/AddAndSearchWord_211.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/CheckCompletenessOfABinaryTree_958.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/MaxConsecutive.java">
           <value>
             <set />
@@ -469,6 +499,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/SumOfDistanceInTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/WordDictionary.java">
           <value>
             <set />
           </value>
@@ -503,6 +538,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/CountNumberOfTeams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/DesignUndergroundSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/FindLuckyIntegerInAnArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/UndergroundSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/domain/Coordinate.java">
           <value>
             <set />
@@ -514,6 +569,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/findMaxZeroCount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/HappyNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/MaximumSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/SingleNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/networkflow/FordFulkerson.java">
           <value>
             <set />
           </value>
@@ -588,6 +663,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../intro-junit5/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../kafka-streams-course/word-count/src/main/java/FileURLClient.java">
           <value>
             <set />
@@ -644,6 +724,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/Main.java">
           <value>
             <set />
           </value>
@@ -794,6 +879,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/partners/setting/service/AdminSettingNationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/setting/_integrationtest/SettingControllerIT.java">
           <value>
             <set />
           </value>

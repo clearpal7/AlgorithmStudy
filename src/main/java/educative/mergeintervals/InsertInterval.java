@@ -1,7 +1,6 @@
 package educative.mergeintervals;
 
 import java.util.*;
-import java.lang.Math.*;
 
 public class InsertInterval {
     public static List<Interval> insert(List<Interval> intervals, Interval newInterval) {

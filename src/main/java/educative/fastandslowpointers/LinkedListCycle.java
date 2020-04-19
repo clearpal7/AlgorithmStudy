@@ -1,7 +1,5 @@
 package educative.fastandslowpointers;
 
-import java.util.*;
-
 public class LinkedListCycle {
 
     public static int hasCycle(ListNode head) {

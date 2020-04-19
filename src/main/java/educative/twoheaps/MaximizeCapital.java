@@ -1,6 +1,6 @@
 package educative.twoheaps;
 
-import java.util.*;
+import java.util.PriorityQueue;
 
 public class MaximizeCapital {
 

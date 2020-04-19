@@ -1,6 +1,7 @@
 package educative.subsets;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Permutations2 {
 

@@ -1,7 +1,5 @@
 package leetcode.contest131;
 
-import leetcode.domain.TreeNode;
-
 public class SumofRootToLeafBinaryNumbers {
 
     /*public int sumRootToLeaf(TreeNode root) {

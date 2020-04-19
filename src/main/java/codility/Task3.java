@@ -1,6 +1,7 @@
 package codility;
 
-import java.util.*;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.stream.Collector;
 import java.util.stream.Stream;
 

@@ -1,6 +1,7 @@
 package educative.slidingwindow;
-import java.util.*;
-import java.util.stream.Stream;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class PermutationsString {
 

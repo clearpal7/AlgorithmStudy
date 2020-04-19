@@ -2,8 +2,6 @@ package review_leetcode;
 
 import java.util.*;
 
-import static leetcode.contest166.GroupThePeopleGivenTheGroupSizeTheyBelongTo_1282.groupThePeople;
-
 
 public class Group_1282 {
 

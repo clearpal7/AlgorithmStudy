@@ -1,6 +1,7 @@
 package leetcode.contest156;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class UniqueNumberOfOccurrences_156 {
 

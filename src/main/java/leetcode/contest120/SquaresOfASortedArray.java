@@ -1,6 +1,6 @@
 package leetcode.contest120;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class SquaresOfASortedArray {
 

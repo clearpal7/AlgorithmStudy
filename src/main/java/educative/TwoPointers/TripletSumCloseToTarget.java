@@ -1,6 +1,6 @@
 package educative.TwoPointers;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class TripletSumCloseToTarget {
 

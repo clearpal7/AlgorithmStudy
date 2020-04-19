@@ -1,10 +1,5 @@
 package educative.slidingwindow;
 
-import leetcode.domain.TreeNode;
-
-import java.util.*;
-import java.util.stream.Collectors;
-
 public class ReverseTree {
 
    /* public static void main(String[] args) {

@@ -1,7 +1,6 @@
 package algorithm.SlidingWindow;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
 public class LongestSubstringWithoutRepeatingCharacters_3 {

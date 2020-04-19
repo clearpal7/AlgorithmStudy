@@ -1,9 +1,5 @@
 package leetcode.contest162;
 
-import leetcode.domain.Coordinate;
-
-import java.util.*;
-
 public class NumberOfClosedIslands_1254 {
 
 

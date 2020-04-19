@@ -1,7 +1,5 @@
 package educative.xor;
 
-import java.lang.*;
-
 public class CalculateComplement {
 
 
