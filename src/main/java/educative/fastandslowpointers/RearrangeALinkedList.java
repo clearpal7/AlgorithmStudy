@@ -17,8 +17,6 @@ public class RearrangeALinkedList {
     }
 
     public static void reorder(ListNode head) {
-        if(head == null || head.next == null)
-            return;
 
         ListNode slow = head;
         ListNode fast = head;
@@ -26,21 +24,24 @@ public class RearrangeALinkedList {
             slow = slow.next;
             fast = fast.next.next;
         }
+        ListNode firstHalf = head;
+        ListNode secondHalf = reverse(slow);
 
-        ListNode first = head;
-        ListNode second = reverse(slow);
-        while (first != null && second != null) {
-            ListNode temp = first.next;
-            first.next = second;
-            first = temp;
+        while(firstHalf != null && secondHalf != null) {
+            ListNode next = firstHalf.next;
+            firstHalf.next = secondHalf;
+            firstHalf = next;
 
-            temp = second.next;
-            second.next = first;
-            second = temp;
+            next = secondHalf.next;
+            secondHalf.next = firstHalf;
+            secondHalf = next;
         }
-        if(first.next != null)
-            first.next = null;
+
+        if(firstHalf.next != null)
+            firstHalf.next = null;
+
     }
+
 
     private static ListNode reverse(ListNode head) {
         ListNode prev = null;

@@ -358,6 +358,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/ConflictingAppointments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/InsertInterval.java">
           <value>
             <set />
@@ -1384,6 +1389,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoTransaformTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/optimizing-for-latency-example/src/Main3.java">
           <value>
             <set />
           </value>
