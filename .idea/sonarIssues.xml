@@ -293,6 +293,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/CyclicSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/educative/dfs/AllPathsForASum.java">
           <value>
             <set />
@@ -499,6 +504,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/AddAndSearchWord_211.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/Biweekly/Contest25/kidsWithCandies.java">
           <value>
             <set />
           </value>
