@@ -23,14 +23,15 @@ public class CyclicSort {
     }
 
     public static void sort(int[] nums) {
-        int start = 0;
-        while(start < nums.length) {
-            int index = nums[start] - 1;
-            if(index != start) {
-                swap(nums, index, start);
+        int i = 0;
+        while(i < nums.length) {
+            int j = nums[i] - 1;
+            if(i != j) {
+                swap(nums, i, j);
             } else {
-                ++start;
+                ++i;
             }
+
         }
     }
 
@@ -39,6 +40,7 @@ public class CyclicSort {
         nums[i] = nums[j];
         nums[j] = temp;
     }
+
 
 
 }
