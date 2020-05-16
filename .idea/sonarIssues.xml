@@ -308,7 +308,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindAllDuplicateNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindAllMissingNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheDuplicateNumber.java">
           <value>
             <set />
           </value>

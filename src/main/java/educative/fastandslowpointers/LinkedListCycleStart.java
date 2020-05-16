@@ -3,43 +3,46 @@ package educative.fastandslowpointers;
 public class LinkedListCycleStart {
 
     public static ListNode findCycleStart(ListNode head) {
-        ListNode slow = head;
         ListNode fast = head;
-        int length = 0;
+        ListNode slow = head;
+
+        int cycleLength = 0;
+
         while(fast != null && fast.next != null) {
-            fast = fast.next.next;
             slow = slow.next;
-            if(fast == slow) {
-                length = calcualteLength(fast);
+            fast = fast.next.next;
+            if(slow == fast) {
+                cycleLength = getCycleLength(slow);
                 break;
             }
         }
-
-        return findStart(head, length);
+        return findStart(head, cycleLength);
     }
 
-    private static int calcualteLength(ListNode fast) {
-        int length = 0;
-        ListNode currentNode = fast;
+    private static int getCycleLength(ListNode head) {
+        ListNode current = head;
+        int cycleLength = 0;
         do {
-            ++length;
-            currentNode = currentNode.next;
-        } while(currentNode != fast);
-        return length;
+            current = current.next;
+            cycleLength++;
+        } while(current != head);
+
+        return cycleLength;
     }
+
 
     private static ListNode findStart(ListNode head, int cycleLength) {
         ListNode slow = head;
         ListNode fast = head;
-        for(int i = 0; i < cycleLength; i++) {
+
+        while(cycleLength > 0) {
             fast = fast.next;
+            cycleLength--;
         }
 
         while(slow != fast) {
             slow = slow.next;
             fast = fast.next;
-            if(slow == fast)
-                return fast;
         }
         return slow;
     }
