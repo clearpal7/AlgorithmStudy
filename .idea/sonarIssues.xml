@@ -318,6 +318,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheCorruptPair.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheDuplicateNumber.java">
           <value>
             <set />
@@ -1429,6 +1434,31 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoTransaformTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/entities/Location.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/BookingAmount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/CardgoHandlingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/CargoHandlingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/Voyage.java">
           <value>
             <set />
           </value>
