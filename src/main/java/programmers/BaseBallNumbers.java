@@ -1,8 +1,6 @@
 package programmers;
 
 
-import java.util.Arrays;
-
 public class BaseBallNumbers {
 
     public int solution(int[][] baseball) {

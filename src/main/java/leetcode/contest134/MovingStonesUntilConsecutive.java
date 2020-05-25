@@ -1,9 +1,7 @@
 package leetcode.contest134;
 
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class MovingStonesUntilConsecutive {
 

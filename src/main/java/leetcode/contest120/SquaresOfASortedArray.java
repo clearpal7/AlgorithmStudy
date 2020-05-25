@@ -1,26 +1,34 @@
 package leetcode.contest120;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.Arrays;
 
 public class SquaresOfASortedArray {
 
     public static void main(String[] args) {
 
-
-
+        int[] arr = {-3, -1, 0, 1, 2};
+        Arrays.stream(makeSquares(arr)).forEach(System.out::println);
+        //System.out.println(makeSquares(arr));
     }
 
-    public static int[] sortedSquares(int[] A) {
+    public static int[] makeSquares(int[] arr) {
+        int[] squares = new int[arr.length];
+        int start = 0;
+        int end = arr.length - 1;
+        int highestIdx = arr.length - 1;
 
-        List<Integer> result = new ArrayList<>();
+        while(start <= end) {
+            int left = arr[start] * arr[start];
+            int right = arr[end] * arr[end];
 
-        for(int i = 0; i < A.length; i++) {
-            result.add(A[i] * A[ i]);
+            if(left < right) {
+                squares[highestIdx--] = right;
+                --end;
+            } else {
+                squares[highestIdx--] = left;
+                ++start;
+            }
         }
-
-        Collections.sort(result);
-        return result.stream().mapToInt(i->i).toArray();
+        return squares;
     }
 }

@@ -2,8 +2,6 @@ package leetcode.contest144;
 
 import leetcode.domain.TreeNode;
 
-import java.util.List;
-
 public class DeleteNodesAndReturnForest_1110 {
 
     public static void main(String[] args) {

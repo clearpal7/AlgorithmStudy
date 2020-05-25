@@ -11,7 +11,6 @@ Example:
 / \ /
 10 8	9
 */
-import java.util.List;
 
 public class List_K_Largest_Elements_Of_Heap {
 

@@ -3,6 +3,21 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SumInDistance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/algorithm/LRU.java">
           <value>
             <set />
@@ -18,7 +33,557 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codility/Task1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codility/Task2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codility/Task3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codility/UserStats.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/datastructure/MultiTreeSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructure/trie/Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructure/trie/TrieMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructure/trie/TrieNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/BinarySearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/FF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/FindRange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/Kelements/ConnectRopes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/Kelements/KClosestPointsToTheOrigin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/Kelements/KLargestNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/Kelements/KthSmallestNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/Kelements/TopKFrequentNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/MaxInBitonicArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/MaximizeCapital.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/NoRepeatingSubstring.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/RemoveDuplicates.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/RemoveDuplicates2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/ReplacingOnes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/ReversalOfLinkedList/ReverseEveryKElements.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/ReversalOfLinkedList/ReverseLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/ReversalOfLinkedList/ReverseSubList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/RotationCountRotatedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/SearchInfiniteSortedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/SearchRotatedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/SlidingWindowMedian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/ComparingStringsContainingBackspaces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/ComparingStringsContainingBackspaces2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/DutchNationalFlagProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/MinumumWindowSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/PairTargetSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/QuadrupleSumToTarget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/RemoveDuplicates.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/SortedArraySquares.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/SubarrayProductLessThanK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/TripletSumCloseToTarget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/TripletSumToZero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/TripletSumToZero2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/TwoPointers/TripletsWithSmallerSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/ConnectAllSiblings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/ConnectLevelOrderSiblings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/LevelAverage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/LevelAverage2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/LevelOrderSuccessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/MaximumDepthOfBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/MinimumDepthOfBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/bfs/ReverseLevelOrderTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/binarysearch/MaxInBitonicArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/binarysearch/RotationCountOfRotatedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/concurrency/Foo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/concurrency/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/CyclicSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindAllDuplicateNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindAllMissingNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheCorruptPair.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheDuplicateNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/cyclicsort/FindTheMissingNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/dfs/AllPathsForASum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/dfs/TreePathSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/HappyNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/LinkedListCycle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/LinkedListCycleStart.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/MiddleOfLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/PalindromeLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/fastandslowpointers/RearrangeALinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/knapsack/BottomUpKnapsack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/knapsack/ClassLoaderLeakExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/knapsack/KnapsackRecursive.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/knapsack/SharedObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/knapsack/main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/ConflictingAppointments.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/InsertInterval.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/IntervalsIntersection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/MergeIntervals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/mergeintervals/MergeIntervals2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/LongestSubstringWithK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/MaximumSumSubarrayOfSizeK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/NoRepeatSubString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/P1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/PermutationsString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/Replace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/ReplaceSubstring.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/ReverseTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/slidingwindow/WordConcatenation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/subsets/Permutations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/subsets/Permutations2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/subsets/SubsetsOfDuplicate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/subsets/sub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/topologicalsort/AllTasksSchedulingOrders.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/topologicalsort/TaskSchedulingOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/topologicalsort/TasksScheduling.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/topologicalsort/TopologicalSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/twoheaps/MaximizeCapital.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/twoheaps/MedianOfAStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/twoheaps/SlidingWindowMedian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/xor/CalculateComplement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/educative/xor/TwoSingleNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/AddAndSearchWord_211.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/Biweekly/Contest25/kidsWithCandies.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/CheckCompletenessOfABinaryTree_958.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/MaxConsecutive.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/MaximumScoreWordsFormedByLetters_1255.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/MinimumInsertion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/SumOfDistanceInTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/WordDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest120/SquaresOfASortedArray.java">
           <value>
             <set />
           </value>
@@ -48,12 +613,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/CountNumberOfTeams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/DesignUndergroundSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/FindLuckyIntegerInAnArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/contest182/UndergroundSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/domain/Coordinate.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/domain/TreeNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/findMaxZeroCount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/HappyNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/MaximumSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcodechallenge/firstweek/SingleNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/networkflow/FordFulkerson.java">
           <value>
             <set />
           </value>
@@ -64,6 +674,361 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/programmers/Kakao/asd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streamstudy/FP02Functional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streamstudy/FP02Structured.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streamstudy/FP03FunctionalInterfaces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streamstudy/GCDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/com/example/springcloud/demo/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/com/example/springcloud/demo/Book.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/com/example/springcloud/demo/MyAnnotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/di/BookService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/di/ContainerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/main/java/di/Inject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cloud/src/test/java/di/ContainerServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../intro-junit5/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-streams-course/word-count/src/main/java/FileURLClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-streams-course/word-count/src/main/java/test/reflectionDemo/ReflectionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-streams-course/word-count/src/main/java/test/reflectionDemo/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka/clients/src/main/java/org/apache/kafka/common/protocol/types/Schema.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka/clients/src/main/java/org/apache/kafka/common/requests/LeaderAndIsrRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka/core/src/main/scala/kafka/utils/KafkaScheduler.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/BaseCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/ExceptionCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/config/ControllerExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/AdminSettingHist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/AdminSettingNation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/SettingStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/SettingType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/adapter/AdminSettingNationAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/exception/AbstractException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/exception/DefaultDataNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/exception/ExceptionCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/exception/ExceptionResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingDeleteRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingDeployRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingGetRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingRegisterRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingRestoreRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/request/AdminSettingUpdateRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/response/AdminSettingGetResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/test/Cook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/test/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/test/Model.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/test/Model1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/domain/test/Model2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/repository/AdminSettingHistRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/repository/AdminSettingNationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/service/AdminSettingNationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/service/AdminUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/util/StreamUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/partners/setting/web/AdminSettingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/main/java/com/smilegate/setting/setting/web/SettingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/partners/setting/AdminSettingApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/partners/setting/domain/adapter/AdminSettingNationAdapterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/partners/setting/service/AdminSettingNationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/setting/_integrationtest/SettingControllerIT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common-admin/src/test/java/com/smilegate/setting/service/UpdateCustomConfigService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../main-common/src/main/java/com/smilegate/setting/setting/domain/request/GetSettingRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/app/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/app/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/LocalCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/LocalCacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/node/KeyNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/queue/QueueFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/queue/QueueManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/queue/QueueManagerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/queue/RequestQueueManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/cache/queue/ResponseQueueManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/main/java/proxy/TwoPhaseCommitProxyImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mongodb-transaction-2pc/core/src/test/java/cache/LocalCacheManagerTest.java">
           <value>
             <set />
           </value>
@@ -118,6 +1083,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/commons/aop/MemberCircuitBreakerAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/commons/config/spring/ApplicationCommunityMongoDBConfig.java">
           <value>
             <set />
@@ -148,7 +1123,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/CardService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/ActivityLogServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/CardListServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/community/service/impl/CardServiceImpl.java">
           <value>
             <set />
           </value>
@@ -163,7 +1153,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/search/es/service/impl/FeedSearchImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/user/data/rest/impl/SocialDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/user/service/impl/MemberServiceImpl.java">
           <value>
             <set />
           </value>
@@ -174,6 +1174,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/web/api/open/ver10/community/CardOpenApiControllerV10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/web/api/open/ver10/community/CardReplyOpenApiControllerV10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine/src/main/java/com/smilegate/mountain/web/api/open/ver10/community/domain/CardReplyRequest.java">
           <value>
             <set />
           </value>
@@ -214,6 +1224,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/impl/MongoReplyNoticeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/impl/NewsMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/impl/Publisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/AnnualSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/EventSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/NewsMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/Observer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../social_engine_batch/src/main/java/com/socialengine/service/yoman/Publisher.java">
           <value>
             <set />
           </value>
@@ -333,12 +1383,87 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../toons_api_e/src/main/java/com/smilegate/toons/common/exception/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../toons_api_e/src/main/java/com/smilegate/toons/firsttoons/service/FirstToonsService.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../toons_api_e/src/main/resources/config/qa/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../toons_api_e/src/main/resources/config/qa2/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/main/java/com/learnreactivespring/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/main/java/com/learnreactivespring/genericpractice/Data.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/main/java/com/learnreactivespring/genericpractice/IData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoCombineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoFactoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoFilterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/learn-reactivespring/src/test/java/com/learnreactivespring/fluxandmonoplayground/FluxAndMonoTransaformTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/entities/Location.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/BookingAmount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/CardgoHandlingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/CargoHandlingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/micro-2020-march/microws2020/01-ddd-cargo-booking-start/src/main/java/com/way2learnonline/booking/domain/model/valueobjects/Voyage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/optimizing-for-latency-example/src/Main3.java">
           <value>
             <set />
           </value>

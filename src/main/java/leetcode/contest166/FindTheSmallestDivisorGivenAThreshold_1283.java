@@ -1,7 +1,6 @@
 package leetcode.contest166;
 
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 public class FindTheSmallestDivisorGivenAThreshold_1283 {
 
